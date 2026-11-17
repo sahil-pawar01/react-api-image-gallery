@@ -34,15 +34,6 @@ A dynamic and responsive **Image Gallery Application** built using React.js that
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your project screenshots here -->
-
-<!-- Example: -->
-<!-- ![Image Gallery](./public/screenshots/home.png) -->
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
