@@ -1,24 +1,24 @@
 
-# 📝 React Notes App
+# 🖼️ React API Image Gallery
 
-A modern and interactive **Notes Management Application** built using React.js. The application provides a clean dark-themed interface that allows users to create, manage, view, and delete notes with a simple and intuitive user experience.
+A dynamic and responsive **Image Gallery Application** built using React.js that fetches images from an external API and displays them in an elegant gallery layout. Users can explore images, view photographer details, and navigate through multiple pages using pagination.
 
-🌐 **Live Demo:** [React Notes App](https://react-notes-app-katana11.vercel.app)
+🌐 **Live Demo:** [React API Image Gallery](https://react-api-image-gallery.vercel.app)
 
-📂 **GitHub Repository:** [react-notes-app](https://github.com/sahil-pawar01/react-notes-app)
+📂 **GitHub Repository:** [react-api-image-gallery](https://github.com/sahil-pawar01/react-api-image-gallery)
 
 ---
 
 ## ✨ Features
 
-- **Create Notes:** Easily create and save new notes.
-- **Manage Notes:** Organize and manage your notes through an interactive interface.
-- **View Notes:** Access and view your saved notes.
-- **Delete Notes:** Remove notes that are no longer needed.
-- **Dark Theme:** Clean and modern dark-themed user interface.
+- **API Integration:** Fetches images dynamically from an external API.
+- **Responsive Image Gallery:** Displays images in an attractive and responsive grid layout.
+- **Photographer Attribution:** Displays photographer information with images.
+- **Pagination:** Navigate through images using Previous and Next buttons.
+- **Dynamic Data Fetching:** Loads image data based on API responses.
+- **Loading Handling:** Handles image fetching states.
+- **Modern UI:** Clean and user-friendly interface.
 - **Responsive Design:** Optimized for different screen sizes and devices.
-- **Interactive UI:** Smooth and user-friendly interactions.
-- **Reusable Components:** Component-based architecture using React.
 
 ---
 
@@ -28,9 +28,18 @@ A modern and interactive **Notes Management Application** built using React.js. 
 |---|---|
 | React.js 19 | Frontend development |
 | JavaScript | Application logic |
+| Axios | HTTP requests and API integration |
 | Tailwind CSS 4 | Styling |
-| Lucide React | Icons |
 | Vite | Development and build tool |
+
+---
+
+## 📸 Screenshots
+
+<!-- Add your project screenshots here -->
+
+<!-- Example: -->
+<!-- ![Image Gallery](./public/screenshots/home.png) -->
 
 ---
 
@@ -41,13 +50,13 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sahil-pawar01/react-notes-app.git
+git clone https://github.com/sahil-pawar01/react-api-image-gallery.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd react-notes-app
+cd react-api-image-gallery
 ```
 
 ### 3. Install Dependencies
@@ -81,7 +90,7 @@ Open the local URL provided by Vite in your browser.
 
 This project is deployed using **Vercel**.
 
-Live Application: [https://react-notes-app-katana11.vercel.app](https://react-notes-app-katana11.vercel.app)
+Live Application: [https://react-api-image-gallery.vercel.app](https://react-api-image-gallery.vercel.app)
 
 ---
 
